@@ -1,0 +1,41 @@
+# 🧠 Python cache & compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# 🧱 Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# 💻 IDE and editor settings
+.vscode/
+.idea/
+*.code-workspace
+
+# 🧩 System / OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ⚙️ Temporary or backup files
+*.bak
+*.tmp
+*.swp
+
+# ⚡ Code Runner temporary files (VS Code)
+tempCodeRunnerFile.py
+tempCodeRunnerFile.txt
+
+# 🪶 Output files created by your app
+voice_text_output.txt
+
+# 🖼️ Do NOT ignore screenshots folder (used in README)
+# screenshots/
+
+# 🚫 Other optional ignores
+*.sqlite3
+*.db
